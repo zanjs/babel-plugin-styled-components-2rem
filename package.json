@@ -4,6 +4,7 @@
   "description": "Improve the debugging experience and add server-side rendering support to styled-components-2rem",
   "repository": "styled-components-2rem/babel-plugin-styled-components-2rem",
   "contributors": [
+    "Julian zan <suihuasheng@gmail.com>",
     "Vladimir Danchenkov <vladimir.danchenkov@gmail.com>",
     "Max Stoiber <contact@mxstbr.com>",
     "Phil Pluckthun <phil@kitten.sh>",
